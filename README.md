@@ -8,4 +8,4 @@ We participated in this competition and the first thing we started with was an e
 We tried different set of regression algorithms mainly from the scikit-learn library with the exception of Light Gradient Boosted Machine algorithm (LightGBM).
 Having all of these algorithms at our disposal and after an appropriate feature engineering strategy, the goal was to just adjust their hyperparameters for better performance, just like someone could turn the knobs on an FM radio to get a clear signal. With that being said, it remains to specify the performance criteria to consider. In our case, we have chosen to consider the Mean Absulute Error (MAE), the Mean Absulute Percentage Error (MAPE) and Max Absulute Deviation (MAD) to evaluate the performance of all these models.
 
-At the end, the model that was retained was the Random Forest algortihm with some parameters adjusted and the score obtained after the submission was 1.28
+At the end, the model that was retained was the Random Forest algortihm with some parameters adjusted and the score obtained after the submission was 1.01
